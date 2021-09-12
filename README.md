@@ -13,4 +13,3 @@ dimensions: ov/overworld - nt/nether - end/en
 !!copynow --- copy right now the server
 example:
 !!region save r.0.0.mca ov(editado)
-
