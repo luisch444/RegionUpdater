@@ -19,4 +19,4 @@ dimensions: ov/overworld - nt/nether - end/en
 
 example:
 
-!!region save r.0.0.mca ov(editado)
+!!region save r.0.0.mca ov
